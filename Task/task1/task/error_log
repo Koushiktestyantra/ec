@@ -1,0 +1,44 @@
+[25-May-2021 10:15:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function dimension() on bool in /home/qp2m4dtgtgod/public_html/medifit/task/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/qp2m4dtgtgod/public_html/medifit/task/index.php on line 22
+[25-May-2021 10:29:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function dimension() on bool in /home/qp2m4dtgtgod/public_html/medifit/task/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/qp2m4dtgtgod/public_html/medifit/task/index.php on line 22
+[25-May-2021 10:31:19 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/qp2m4dtgtgod/public_html/medifit/task/index.php on line 16
+[25-May-2021 10:32:20 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/qp2m4dtgtgod/public_html/medifit/task/index.php on line 16
+[25-May-2021 10:35:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function dimension() on bool in /home/qp2m4dtgtgod/public_html/medifit/task/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/qp2m4dtgtgod/public_html/medifit/task/index.php on line 22
+[25-May-2021 10:36:58 UTC] PHP Notice:  Undefined index: templateShedule  in /home/qp2m4dtgtgod/public_html/medifit/task/index.php on line 19
+[25-May-2021 10:36:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function dimension() on bool in /home/qp2m4dtgtgod/public_html/medifit/task/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/qp2m4dtgtgod/public_html/medifit/task/index.php on line 22
+[25-May-2021 10:37:08 UTC] PHP Notice:  Undefined index: templateShedule  in /home/qp2m4dtgtgod/public_html/medifit/task/index.php on line 19
+[25-May-2021 10:37:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function dimension() on bool in /home/qp2m4dtgtgod/public_html/medifit/task/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/qp2m4dtgtgod/public_html/medifit/task/index.php on line 22
+[25-May-2021 10:37:55 UTC] PHP Notice:  Undefined index: templateShedule  in /home/qp2m4dtgtgod/public_html/medifit/task/index.php on line 19
+[25-May-2021 10:37:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function dimension() on bool in /home/qp2m4dtgtgod/public_html/medifit/task/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/qp2m4dtgtgod/public_html/medifit/task/index.php on line 22
+[25-May-2021 10:38:06 UTC] PHP Notice:  Undefined index: templateShedule  in /home/qp2m4dtgtgod/public_html/medifit/task/index.php on line 19
+[25-May-2021 10:38:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function dimension() on bool in /home/qp2m4dtgtgod/public_html/medifit/task/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/qp2m4dtgtgod/public_html/medifit/task/index.php on line 22
+[25-May-2021 10:38:31 UTC] PHP Notice:  Undefined index: templateShedule  in /home/qp2m4dtgtgod/public_html/medifit/task/index.php on line 19
+[25-May-2021 10:38:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function dimension() on bool in /home/qp2m4dtgtgod/public_html/medifit/task/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/qp2m4dtgtgod/public_html/medifit/task/index.php on line 22
+[25-May-2021 10:38:43 UTC] PHP Notice:  Undefined index: templateShedule  in /home/qp2m4dtgtgod/public_html/medifit/task/index.php on line 19
+[25-May-2021 10:38:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function dimension() on bool in /home/qp2m4dtgtgod/public_html/medifit/task/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/qp2m4dtgtgod/public_html/medifit/task/index.php on line 22
